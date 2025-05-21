@@ -1,0 +1,51 @@
+#title {
+  font-size: 400%;
+  width: 60vmax;
+}
+
+.center {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+img {
+  display: block; /* Ensures all images are treated as block elements */
+}
+
+#image {
+  max-width: 100%;   /* Ensures the image does not exceed its container's width */
+  height: auto;      /* Maintains the aspect ratio of the image */
+  display: block;    /* Makes the image a block element */
+  margin: auto;      /* Centers the image horizontally */
+}
+
+#img-div {
+  display: flex;        /* Use flexbox for centering */
+  justify-content: center; /* Horizontally centers the content */
+  align-items: center;  /* Vertically centers the content (if needed) */
+  flex-direction: column; /* Ensures content stacks vertically */
+  text-align: center;   /* Centers text inside the container */
+}
+
+@media only screen and (min-width:480px) {
+  /* Add responsive styles here if needed */
+}
+
+@media only screen and (min-width:767px) {
+  /* Add responsive styles here if needed */
+}
+
+@media only screen and (min-width:991px) {
+  /* Add responsive styles here if needed */
+}
+
+@media only screen and (min-width:1200px) {
+  .font {
+    padding: 0px 200px 15px 200px;
+  }
+}
+
+@media (orientation: landscape) {
+  /* Add landscape-specific styles here if needed */
+}
