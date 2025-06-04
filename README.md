@@ -16,10 +16,10 @@ The projects in this repository demonstrate skills in:
 ## 📁 Projects Included
 
 1. Tribute Page  
-2. Survey Form  
+2. Personal Portfolio Webpage
 3. Product Landing Page  
-4. Technical Documentation Page  
-5. Personal Portfolio Webpage  
+4. Survey Form 
+5. Technical Documentation Page 
 
 Each project meets the specific user stories and requirements provided by freeCodeCamp.
 
