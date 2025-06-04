@@ -25,8 +25,7 @@ Each project meets the specific user stories and requirements provided by freeCo
 
 ## 🏆 Certification
 
-You can view my certification here: 
+You can view my certification here: https://www.freecodecamp.org/certification/luunpl/responsive-web-design
 
----
-
+--
 Feel free to customize or expand it. If you'd like, I can help you generate a more visually styled version with badges, links, or images.
